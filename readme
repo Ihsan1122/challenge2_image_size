@@ -1,3 +1,4 @@
 Step to Run Python Script:
 1- Create venv and install the required dependencies.
-2- run command python app.py.
+2- Change DB connection string as per your's internal settings.
+3- run command python app.py.
