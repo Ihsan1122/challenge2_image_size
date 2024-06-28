@@ -1,0 +1,6 @@
+flask
+pandas
+opencv-python-headless
+matplotlib
+psycopg2-binary
+
